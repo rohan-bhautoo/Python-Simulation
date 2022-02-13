@@ -135,9 +135,13 @@ elif(SensorData == 1):
 
 ## Usage
 > 1 - Open Python IDLE 
+> 
 > 2 - From the File setting, open the \Python Simulation\Python code\Coursework.py file.
+> 
 > 3 - Run the /Python Simulation/simulator/bin/windows64/readopcForStrands.exe.
+> 
 > 4 - Run python code and view the python simulator.
+> 
 > 5 - The WELCOME animation will appear.
 
 ## Author
