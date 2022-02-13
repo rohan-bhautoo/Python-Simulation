@@ -79,7 +79,7 @@ colour = (red,green,blue)
 ```
 > *random.randint* followed by integers in the brackets. The integer used in the bracket is 0 to 256. These are integer are for RGB value and random will generate a value between this 0 to 255 range as the final value in not taken into account
 <p align="center">
-  <img src="https://github.com/rohan-bhautoo/Python-Simulation/blob/master/Screenshots/random_animation.png">
+  <img height="300" src="https://github.com/rohan-bhautoo/Python-Simulation/blob/master/Screenshots/random_animation.png">
 </p>
 
 ### Nanpy.py
